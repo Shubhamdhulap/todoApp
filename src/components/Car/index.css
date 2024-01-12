@@ -1,0 +1,18 @@
+body {
+  background: rgb(255, 173, 65);
+}
+
+.bg {
+  background: rgb(41, 33, 33);
+  width: 100wh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.button {
+  background-color: transparent;
+  color: white;
+  margin: 20px;
+  border: none;
+}
